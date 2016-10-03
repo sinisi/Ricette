@@ -1,0 +1,23 @@
+var persone = [ 
+	{
+      "nome"     : "",
+      "id"     :  "Gutierrez",
+      "descrizione"       : 22,
+      "procedura"    : "yourinspirationprocedura.com",
+      "number"    : "0065  5402468"
+   },
+   {
+      "nome"     : "Mario",
+      "id"     : "Bros",
+      "descrizione"       : 24,
+      "procedura"    : "mariobros.com",
+      "number"    : "0024  1291932"
+   },
+   {
+      "nome"     : "John",
+      "id"     : "Resig",
+      "descrizione"       : 25,
+      "procedura"    : "ejohn.org",
+      "number"    : "0010  5102012"
+   }
+]
