@@ -4,69 +4,79 @@ var ricette = [
       "id"     :  "1",
       "descrizione"       : "ah bella domanda",
       "procedura"    : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum faucibus sodales nisi, ac volutpat massa tempus a. Ut felis nisl, faucibus in erat et, finibus aliquet ipsum. Nunc in ex quis est accumsan faucibus. Nam faucibus nec sem non suscipit. Pellentesque ultricies, lorem eget porttitor fringilla, neque sem egestas nibh, ac vulputate libero dolor vitae erat. Praesent eget accumsan nunc, ut mattis massa. Fusce rutrum odio diam, at lobortis quam commodo non.",
-      "image"    : "0065  5402468"
+      "url": "http://placehold.it/600/92c952",
+      "thumbnailUrl": "http://placehold.it/150/30ac17"
    },
    {
       "nome"     : "Ragu di castoro",
       "id"     : "2",
       "descrizione"       : "boh non saprei che dire",
       "procedura"    : "Nam vitae congue justo. Donec egestas enim eu eros euismod, eu efficitur turpis fringilla. Nullam volutpat tellus in enim facilisis iaculis. Aenean at nulla cursus leo tincidunt laoreet. Integer dapibus bibendum nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis urna turpis, mollis sed ligula sed, pharetra consectetur augue. Curabitur vulputate, libero a efficitur bibendum, neque metus laoreet mauris, vel gravida ipsum justo quis urna. Donec tempus faucibus libero, ac iaculis orci cursus in. Suspendisse convallis, nisl sit amet cursus pellentesque, neque lacus volutpat turpis, eu facilisis purus nisi vestibulum neque. Nunc convallis sit amet est eget cursus.",
-      "image"    : "0024  1291932"
+      "url": "http://placehold.it/600/f66b97",
+      "thumbnailUrl": "http://placehold.it/150/7735a"
    },
    {
       "nome"     : "Salsa al cinghiale ",
       "id"     : "3",
       "descrizione"       : "non insistere tanto non te lo dico",
       "procedura"    : "Nullam condimentum lacinia quam, at tempor elit. Suspendisse potenti. Nam nec sem urna. In finibus libero sem, quis iaculis augue lobortis a. Quisque tincidunt accumsan odio, at pellentesque elit venenatis vel. Donec ac arcu fringilla, fringilla augue gravida, malesuada dui. Donec euismod risus consequat, convallis turpis a, blandit metus. Integer molestie orci lacus, id malesuada metus consectetur vitae.",
-      "image"    : "0010  5102012"
+      "url": "http://placehold.it/600/197d29",
+      "thumbnailUrl": "http://placehold.it/150/f777f7"
    }
    {
       "nome"     : "Gatto in agrodolce",
       "id"     : "4",
       "descrizione"       : "ma sei ancora qui?",
       "procedura"    : "Nullam condimentum lacinia quam, at tempor elit. Suspendisse potenti. Nam nec sem urna. In finibus libero sem, quis iaculis augue lobortis a. Quisque tincidunt accumsan odio, at pellentesque elit venenatis vel. Donec ac arcu fringilla, fringilla augue gravida, malesuada dui. Donec euismod risus consequat, convallis turpis a, blandit metus. Integer molestie orci lacus, id malesuada metus consectetur vitae.",
-      "image"    : "0010  5102012"
+      "url": "http://placehold.it/600/fdf73e",
+      "thumbnailUrl": "http://placehold.it/150/dc71a1"
    }
    {
       "nome"     : "Crotalo al vapore",
       "id"     : "5",
       "descrizione"       : "eddai non sai cosa è la privacy?",
       "procedura"    : "Nullam condimentum lacinia quam, at tempor elit. Suspendisse potenti. Nam nec sem urna. In finibus libero sem, quis iaculis augue lobortis a. Quisque tincidunt accumsan odio, at pellentesque elit venenatis vel. Donec ac arcu fringilla, fringilla augue gravida, malesuada dui. Donec euismod risus consequat, convallis turpis a, blandit metus. Integer molestie orci lacus, id malesuada metus consectetur vitae.",
-      "image"    : "0010  5102012"
+      "url": "http://placehold.it/600/8985dc",
+      "thumbnailUrl": "http://placehold.it/150/c435c1"
    }
    {
       "nome"     : "Lemure flambè",
       "id"     : "6",
       "descrizione"       : "Seriamente ora mi stai mettendo paura",
       "procedura"    : "Nullam condimentum lacinia quam, at tempor elit. Suspendisse potenti. Nam nec sem urna. In finibus libero sem, quis iaculis augue lobortis a. Quisque tincidunt accumsan odio, at pellentesque elit venenatis vel. Donec ac arcu fringilla, fringilla augue gravida, malesuada dui. Donec euismod risus consequat, convallis turpis a, blandit metus. Integer molestie orci lacus, id malesuada metus consectetur vitae.",
-      "image"    : "0010  5102012"
+      "url": "http://placehold.it/600/a7c272",
+      "thumbnailUrl": "http://placehold.it/150/ea66a5"
    }
    {
       "nome"     : "Spaghetti al sugo di topo",
       "id"     : "7",
       "descrizione"       : "sai, sei davvero molesto",
       "procedura"    : "Nullam condimentum lacinia quam, at tempor elit. Suspendisse potenti. Nam nec sem urna. In finibus libero sem, quis iaculis augue lobortis a. Quisque tincidunt accumsan odio, at pellentesque elit venenatis vel. Donec ac arcu fringilla, fringilla augue gravida, malesuada dui. Donec euismod risus consequat, convallis turpis a, blandit metus. Integer molestie orci lacus, id malesuada metus consectetur vitae.",
-      "image"    : "0010  5102012"
+      "url": "http://placehold.it/600/474645",
+      "thumbnailUrl": "http://placehold.it/150/aa4811"
    }
    {
       "nome"     : "Pollo, semplicemente pollo",
       "id"     : "8",
       "descrizione"       : "è ora che ti fai una vita",
       "procedura"    : "Nullam condimentum lacinia quam, at tempor elit. Suspendisse potenti. Nam nec sem urna. In finibus libero sem, quis iaculis augue lobortis a. Quisque tincidunt accumsan odio, at pellentesque elit venenatis vel. Donec ac arcu fringilla, fringilla augue gravida, malesuada dui. Donec euismod risus consequat, convallis turpis a, blandit metus. Integer molestie orci lacus, id malesuada metus consectetur vitae.",
-      "image"    : "0010  5102012"
+      "url": "http://placehold.it/600/4d564d",
+      "thumbnailUrl": "http://placehold.it/150/ac91a8"
    }
    {
       "nome"     : "Pollo, del giorno prima",
       "id"     : "9",
       "descrizione"       : "guarda, ho un bastone!",
       "procedura"    : "Nullam condimentum lacinia quam, at tempor elit. Suspendisse potenti. Nam nec sem urna. In finibus libero sem, quis iaculis augue lobortis a. Quisque tincidunt accumsan odio, at pellentesque elit venenatis vel. Donec ac arcu fringilla, fringilla augue gravida, malesuada dui. Donec euismod risus consequat, convallis turpis a, blandit metus. Integer molestie orci lacus, id malesuada metus consectetur vitae.",
-      "image"    : "0010  5102012"
+      "url": "http://placehold.it/600/121fa4",
+      "thumbnailUrl": "http://placehold.it/150/9ed3d5"
    }
    {
       "nome"     : "Basta pollo! Mangiamo il Nonno",
       "id"     : "10",
       "descrizione"       : "bah.....ci rinuncio",
       "procedura"    : "Nullam condimentum lacinia quam, at tempor elit. Suspendisse potenti. Nam nec sem urna. In finibus libero sem, quis iaculis augue lobortis a. Quisque tincidunt accumsan odio, at pellentesque elit venenatis vel. Donec ac arcu fringilla, fringilla augue gravida, malesuada dui. Donec euismod risus consequat, convallis turpis a, blandit metus. Integer molestie orci lacus, id malesuada metus consectetur vitae.",
-      "image"    : "0010  5102012"
+      "url": "http://placehold.it/600/cde4c1",
+      "thumbnailUrl": "http://placehold.it/150/81d13f"
    }
 ]
