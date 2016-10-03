@@ -9,7 +9,7 @@ var persone = [
    {
       "nome"     : "Mario",
       "id"     : "Bros",
-      "descrizione"       : 24,
+      "descrizione"       : 28,
       "procedura"    : "mariobros.com",
       "number"    : "0024  1291932"
    },
