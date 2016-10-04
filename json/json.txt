@@ -2,7 +2,7 @@ var ricette = [
 	{
       "nome"     : "Pesto alla genovese",
       "id"     :  "1",
-      "descrizione"       : "ah bella domanda",
+      "ingredienti"       : "Basilico, olio, formaggio grattuggiato, pinoli, aglio, sale",
       "procedura"    : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum faucibus sodales nisi, ac volutpat massa tempus a. Ut felis nisl, faucibus in erat et, finibus aliquet ipsum. Nunc in ex quis est accumsan faucibus. Nam faucibus nec sem non suscipit. Pellentesque ultricies, lorem eget porttitor fringilla, neque sem egestas nibh, ac vulputate libero dolor vitae erat. Praesent eget accumsan nunc, ut mattis massa. Fusce rutrum odio diam, at lobortis quam commodo non.",
       "url": "http://placehold.it/600/92c952",
       "thumbnailUrl": "http://placehold.it/150/30ac17"
