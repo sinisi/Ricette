@@ -2,8 +2,9 @@ var ricette = [
 	{
       "nome"     : "Pesto alla genovese",
       "id"     :  "1",
-      "ingredienti"       : "Basilico, olio, Parmiggiano Reggiano DOP, Pecorino DOP, pinoli, aglio, sale",
-      "procedura"    : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum faucibus sodales nisi, ac volutpat massa tempus a. Ut felis nisl, faucibus in erat et, finibus aliquet ipsum. Nunc in ex quis est accumsan faucibus. Nam faucibus nec sem non suscipit. Pellentesque ultricies, lorem eget porttitor fringilla, neque sem egestas nibh, ac vulputate libero dolor vitae erat. Praesent eget accumsan nunc, ut mattis massa. Fusce rutrum odio diam, at lobortis quam commodo non.",
+      "ingredienti"       : "Basilico, olio, Parmiggiano Reggiano DOP, Pecorino Sardo DOP, pinoli, aglio, sale",
+      "procedura"    : "Nel mortaio si schiacciano gli spicchi d'Aglio (1 spicchio ogni 30 foglie circa di basilico).
+Si aggiungono poi le foglie di Basilico, intervallandone con modesti strati di Sale, che essendo grosso svolge il ruolo abrasivo necessario per triturare efficacemente le foglie, che andranno dunque schiacciate tramite movimento rotatorio del pestello contro le pareti del mortaio, coordinando movimenti in un verso del pestello con la rotazione del mortaio nel verso opposto afferrando con la mano libera le sue caratteristiche "orecchie". Quando il basilico inizia a stillare un liquido verde e si presenta come una crema uniforme, si aggiungeranno i Pinoli e successivamente i formaggi preventivamente grattugiati (nelle proporzioni: 2/3 di Parmigiano e 1/3 di Fiore Sardo, circa per non rendere il gusto troppo squilibrato, essendo il Fiore di gusto più deciso), amalgamando bene il tutto sempre con movimenti rotatori del pestello e con l'eventuale ausilio di un cucchiaio. Infine si aggiunge l'Olio d'Oliva versato a goccia, che svolge, anche, un ruolo antiossidante.",
       "url": "http://placehold.it/600/92c952",
       "thumbnailUrl": "http://placehold.it/150/30ac17"
    },
